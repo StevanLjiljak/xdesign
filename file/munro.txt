@@ -1,0 +1,26 @@
+1,Ben Macdui,1309,munro
+2,Beinn Teallach,914,munro
+3,Ben Hope,927,munro
+4,Mount Keen,939,munro
+5,Ben Lomond,974,munro
+6,Sgùrr na Banachdaich,965,munro
+7,Schiehallion,1083,munro
+8,Bidean nam Bian,1149,munro
+9,Sgùrr Alasdair,992,munro
+10,Blà Bheinn,929,munro
+11,Liathach,1055,munro
+12,An Teallach,1062,munro
+13,Sgùrr na Cìche,1040,munro
+14,The Saddle,1011,munro
+15,A' Mhaighdean,967,munro
+16,Ben Cruachan,1127,munro
+17,Carn Etchachan,1120,munrotop
+18,Stob Coire nan Lochan,1115,munrotop
+19,Aonach Beag,1234,munro
+20,Glas Mheall Mòr,979,munrotop
+21,Sgurr na Forcan,964,munrotop
+22,Sgurr Thearlaich,977,munrotop
+23,Brezovica,2524, none
+24,Kopaonik,2017,none
+25,Jahorina,1916,none
+26,Stara planina,2376,none
